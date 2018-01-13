@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "4b6084a542c7f5d2c5ebc7be577ab45a"
+build_time: [1511294239, 702393000]
+inputs:
+  "/Users/chrismayfield/Desktop/ARKitDemo/ARKitDemo/ViewController.swift": [1511294167, 0]
+  "/Users/chrismayfield/Desktop/ARKitDemo/ARKitDemo/AppDelegate.swift": [1511134352, 0]
